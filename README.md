@@ -17,7 +17,7 @@ Sou dedicado, comunicativo e gosto de trabalhar em equipe, sempre com o objetivo
 
 ## 🎯 Objetivo Profissional
 
-Atuar como **na área de programação ou análise de sistemas**, aplicando meus conhecimentos teóricos na prática e adquirindo **experiência real no ambiente corporativo**.  
+Atuar **na área de programação ou análise de sistemas**, aplicando meus conhecimentos teóricos na prática e adquirindo **experiência real no ambiente corporativo**.  
 Tenho grande interesse em **desenvolvimento de software e infraestrutura**, buscando constantemente o **aprendizado contínuo** e o **aperfeiçoamento técnico e interpessoal**.
 
 ---
