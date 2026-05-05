@@ -2,7 +2,7 @@
 
 🎓 **Formado em Análise e Desenvolvimento de Sistemas** | **Técnico em Informática formado pelo Senac São Miguel**  
 💻 **Focado em Desenvolvimento Back-End** — C# | Java | SQL (Oracle e SQL Server) | Arquitetura em 4 camadas | MVC  
-📍 **São Paulo - SP | 19 anos | Solteiro**
+📍 **São Paulo - SP**
 
 ---
 
